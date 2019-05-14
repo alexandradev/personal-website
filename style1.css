@@ -47,6 +47,12 @@
    font-size: 17pt;
    font-family: 'Muli', sans-serif;
     }
+
+ .line-menu
+   {border-bottom: 3px solid #da7015;
+    width: 50px
+    padding-right: 100p;
+ }
  .layer{
    width: 200px;
    height: 100px;
@@ -130,3 +136,16 @@
    float: left;
    z-index: -1;
     }
+ table {
+   border-collapse: separate;
+   border-spacing: 50px 0;
+}
+ td {
+  padding: 5px 0;
+}
+ .line {
+   width:900px ;
+   align: center;
+   border-bottom: 3px solid #f3f3f6;
+   margin-top: 1500px;
+ }
